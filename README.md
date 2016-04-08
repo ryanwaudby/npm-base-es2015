@@ -1,8 +1,8 @@
-Adapted from [this](https://github.com/kadirahq/npm-base) awesome project.
-
 # npm-base
 
 A base package for creating NPM packages with ES2015.
+
+Adapted from [this](https://github.com/kadirahq/npm-base) awesome project.
 
 ## Basic Usage
 
